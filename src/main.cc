@@ -19,4 +19,5 @@ int main(int argc, char *argv[]) {
 	int64_t index=find(2, array, 3);
 	
 	std::cout << "index: " << index << std::endl;
+	// system("PAUSE");
 }
